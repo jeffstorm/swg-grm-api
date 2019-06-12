@@ -1,1 +1,1 @@
-# Star Wars Galaxies - Galactic Resource Manager - API
+# Star Wars Galaxies - Galactic Resources Manager - API
